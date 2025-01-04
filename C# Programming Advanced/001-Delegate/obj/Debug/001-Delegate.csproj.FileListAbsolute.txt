@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\bin\Debug\001-Delegate.exe.config
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\bin\Debug\001-Delegate.exe
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\bin\Debug\001-Delegate.pdb
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\obj\Debug\001-Delegate.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\obj\Debug\001-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\obj\Debug\001-Delegate.exe
+C:\Users\ratan\Desktop\WindowForm\POS\C# Programming Advanced\001-Delegate\obj\Debug\001-Delegate.pdb

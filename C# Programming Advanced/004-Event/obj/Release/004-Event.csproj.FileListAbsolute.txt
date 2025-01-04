@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\bin\Release\004-Event.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\bin\Release\004-Event.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\bin\Release\004-Event.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\obj\Release\004-Event.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\obj\Release\004-Event.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\obj\Release\004-Event.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\004-Event\obj\Release\004-Event.pdb

@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\bin\Release\003-DelegateMulticast.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\bin\Release\003-DelegateMulticast.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\bin\Release\003-DelegateMulticast.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\obj\Release\003-DelegateMulticast.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\obj\Release\003-DelegateMulticast.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\obj\Release\003-DelegateMulticast.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\003-DelegateMulticast\obj\Release\003-DelegateMulticast.pdb

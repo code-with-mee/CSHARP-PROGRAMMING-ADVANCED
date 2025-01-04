@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\bin\Release\011-Dictionary.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\bin\Release\011-Dictionary.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\bin\Release\011-Dictionary.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\obj\Release\011-Dictionary.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\obj\Release\011-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\obj\Release\011-Dictionary.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\011-Dictionary\obj\Release\011-Dictionary.pdb

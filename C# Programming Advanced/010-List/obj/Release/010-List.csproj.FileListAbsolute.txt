@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\bin\Release\010-List.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\bin\Release\010-List.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\bin\Release\010-List.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\obj\Release\010-List.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\obj\Release\010-List.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\obj\Release\010-List.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\010-List\obj\Release\010-List.pdb

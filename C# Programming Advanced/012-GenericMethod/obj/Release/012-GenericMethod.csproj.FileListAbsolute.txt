@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\bin\Release\012-GenericMethod.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\bin\Release\012-GenericMethod.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\bin\Release\012-GenericMethod.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\obj\Release\012-GenericMethod.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\obj\Release\012-GenericMethod.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\obj\Release\012-GenericMethod.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\012-GenericMethod\obj\Release\012-GenericMethod.pdb

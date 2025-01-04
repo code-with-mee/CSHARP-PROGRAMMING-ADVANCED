@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\bin\Release\007-AnonymousMethod.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\bin\Release\007-AnonymousMethod.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\bin\Release\007-AnonymousMethod.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\obj\Release\007-AnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\obj\Release\007-AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\obj\Release\007-AnonymousMethod.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\007-AnonymousMethod\obj\Release\007-AnonymousMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\bin\Release\006-EventChatApplication.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\bin\Release\006-EventChatApplication.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\bin\Release\006-EventChatApplication.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\obj\Release\006-EventChatApplication.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\obj\Release\006-EventChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\obj\Release\006-EventChatApplication.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\006-EventChatApplication\obj\Release\006-EventChatApplication.pdb
