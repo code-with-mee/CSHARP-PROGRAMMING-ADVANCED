@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ratan\\Desktop\\C# Programming Advanced\\",
+  "WorkspaceRootPath": "D:\\2 - IT ACADEMY STEP\\Github\\C# Advanced\\CSHARP-PROGRAMMING-ADVANCED\\C# Programming Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1659B867-C2E8-464D-9CF4-587EBA2EFC67}|012-GenericMethod\\012-GenericMethod.csproj|c:\\users\\ratan\\desktop\\c# programming advanced\\012-genericmethod\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1659B867-C2E8-464D-9CF4-587EBA2EFC67}|012-GenericMethod\\012-GenericMethod.csproj|solutionrelative:012-genericmethod\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1659B867-C2E8-464D-9CF4-587EBA2EFC67}|012-GenericMethod\\012-GenericMethod.csproj|c:\\users\\ratan\\desktop\\c# programming advanced\\012-genericmethod\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1659B867-C2E8-464D-9CF4-587EBA2EFC67}|012-GenericMethod\\012-GenericMethod.csproj|solutionrelative:012-genericmethod\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5DE010E-4870-42FB-86A2-07FE008F09D9}|013-GenericCustomList\\013-GenericCustomList.csproj|d:\\2 - it academy step\\github\\c# advanced\\csharp-programming-advanced\\c# programming advanced\\013-genericcustomlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DE010E-4870-42FB-86A2-07FE008F09D9}|013-GenericCustomList\\013-GenericCustomList.csproj|solutionrelative:013-genericcustomlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 145,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Util.cs",
-              "DocumentMoniker": "C:\\Users\\ratan\\Desktop\\C# Programming Advanced\\012-GenericMethod\\Util.cs",
-              "RelativeDocumentMoniker": "012-GenericMethod\\Util.cs",
-              "ToolTip": "C:\\Users\\ratan\\Desktop\\C# Programming Advanced\\012-GenericMethod\\Util.cs",
-              "RelativeToolTip": "012-GenericMethod\\Util.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAABAwBIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T03:52:54.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.cs",
-              "DocumentMoniker": "C:\\Users\\ratan\\Desktop\\C# Programming Advanced\\012-GenericMethod\\App.cs",
-              "RelativeDocumentMoniker": "012-GenericMethod\\App.cs",
-              "ToolTip": "C:\\Users\\ratan\\Desktop\\C# Programming Advanced\\012-GenericMethod\\App.cs",
-              "RelativeToolTip": "012-GenericMethod\\App.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBMAAAAbAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2 - IT ACADEMY STEP\\Github\\C# Advanced\\CSHARP-PROGRAMMING-ADVANCED\\C# Programming Advanced\\013-GenericCustomList\\Program.cs",
+              "RelativeDocumentMoniker": "013-GenericCustomList\\Program.cs",
+              "ToolTip": "D:\\2 - IT ACADEMY STEP\\Github\\C# Advanced\\CSHARP-PROGRAMMING-ADVANCED\\C# Programming Advanced\\013-GenericCustomList\\Program.cs",
+              "RelativeToolTip": "013-GenericCustomList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T03:45:01.807Z",
+              "WhenOpened": "2025-01-05T03:28:48.382Z",
               "EditorCaption": ""
             }
           ]

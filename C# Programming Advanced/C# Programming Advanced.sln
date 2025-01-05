@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011-Dictionary", "011-Dicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012-GenericMethod", "012-GenericMethod\012-GenericMethod.csproj", "{1659B867-C2E8-464D-9CF4-587EBA2EFC67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013-GenericCustomList", "013-GenericCustomList\013-GenericCustomList.csproj", "{A5DE010E-4870-42FB-86A2-07FE008F09D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{1659B867-C2E8-464D-9CF4-587EBA2EFC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1659B867-C2E8-464D-9CF4-587EBA2EFC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1659B867-C2E8-464D-9CF4-587EBA2EFC67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DE010E-4870-42FB-86A2-07FE008F09D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DE010E-4870-42FB-86A2-07FE008F09D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DE010E-4870-42FB-86A2-07FE008F09D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DE010E-4870-42FB-86A2-07FE008F09D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
