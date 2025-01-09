@@ -1,0 +1,7 @@
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\bin\Release\014-GenericCustomDictionary.exe.config
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\bin\Release\014-GenericCustomDictionary.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\bin\Release\014-GenericCustomDictionary.pdb
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\obj\Release\014-GenericCustomDictionary.csproj.AssemblyReference.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\obj\Release\014-GenericCustomDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\obj\Release\014-GenericCustomDictionary.exe
+C:\Users\ratan\Desktop\C# Programming Advanced\014-GenericCustomDictionary\obj\Release\014-GenericCustomDictionary.pdb
